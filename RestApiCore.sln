@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiCore", "RestApiCore\RestApiCore.csproj", "{8E07B7AE-8703-4A5B-9454-16AAA548651A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E07B7AE-8703-4A5B-9454-16AAA548651A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E07B7AE-8703-4A5B-9454-16AAA548651A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E07B7AE-8703-4A5B-9454-16AAA548651A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E07B7AE-8703-4A5B-9454-16AAA548651A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC303750-5697-4F32-A915-F0E91CE66C4F}
+	EndGlobalSection
+EndGlobal
